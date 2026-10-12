@@ -10,7 +10,7 @@ In today's world, there is pretty much always a camera watching every move you m
 The challenge tests your ability to recover publicly available information. Making the search query "what is kanye west's iphone password" gives the password 000000, which is the flag.
 
 
-**flag:** 000000
+**flag:** `000000`
 
 # Lesson Learned:
 - Practiced OSINT techniques

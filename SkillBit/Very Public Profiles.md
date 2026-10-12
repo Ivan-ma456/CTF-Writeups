@@ -13,7 +13,7 @@ Taking a closer look at the URL though, it almost seems as if you might can see 
 # Analysis:
 The challenge description hints at leveraging the given URL and its format to view other people's profiles. I noticed that the link ends in "/profile/13/" which suggested that profile identifiers were sequential. This prompted me to try changing the number, which indeed allowed me to view other profiles other than profile 13. Upon reaching profile 6, I found the flag. 
 
-**flag:** you\_are\_now\_a\_1337\_url\_h4x0r
+**flag:** `you_are_now_a_1337_url_h4x0r`
 
 # Lesson Learned:
 - Small changes to URL parameters can reveal sensitive information
