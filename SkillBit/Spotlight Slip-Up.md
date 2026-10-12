@@ -1,5 +1,6 @@
 # Challenge Information:
 **Challenge Name:** Spotlight Slip-Up
+
 **Category:** Reconnaissance
 
 # Challenge Description:
