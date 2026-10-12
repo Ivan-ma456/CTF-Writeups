@@ -1,10 +1,17 @@
-# Challenge Information
+# Challenge Information:
 ## Challenge Name: Spotlight Slip-Up
 ## Category: Reconnaissance
 
 # Challenge Description:
 In today's world, there is pretty much always a camera watching every move you make. Just ask Kanye West. The flag is Kanye West's iPhone password. Maybe be careful about typing in your password when you're surrounded by dozens of media...
 
-The challenge tests your ability to recover publicly available information. Making the search query 'what is kanye west's iphone password' gives the password 000000, which is the flag.
+# Analysis:
+The challenge tests your ability to recover publicly available information. Making the search query "what is kanye west's iphone password" gives the password 000000, which is the flag.
+
 
 **flag:** 000000
+
+# Lesson Learned:
+- Practiced OSINT techniques
+- Learned to make effective search queries to find information
+- Observed how sensitive information can be widely publicized through the media
