@@ -1,6 +1,6 @@
 # Challenge Information:
-## Challenge Name: Spotlight Slip-Up
-## Category: Reconnaissance
+**Challenge Name:** Spotlight Slip-Up
+**Category:** Reconnaissance
 
 # Challenge Description:
 In today's world, there is pretty much always a camera watching every move you make. Just ask Kanye West. The flag is Kanye West's iPhone password. Maybe be careful about typing in your password when you're surrounded by dozens of media...
