@@ -22,7 +22,9 @@ print("Login successful!" if check_login(input("Enter the password: ")) else "Lo
 The given program is a password checker. It takes each letter in the password you input, converts each character to its ASCII code using ord(i), and stores it in a list, retaining the order in which the characters appear in the password you input. If the resulting list matches a preset hidden password element for element, then you have the correct password. One approach to this problem would be to simply take a ASCII code table and convert each of the ASCII codes in hidden to characters (77 turns to M, 101 turns to e, etc.). Concatenate all of the resulting characters together, and you obtain the flag `MetaCTF{living_with_the_snake}`. This approach works fine for relatively short codes but would be impractical for something very long. An alternative solution would be to write a program that takes a list of ASCII codes, uses Python's built-in chr(i) method to recover the correct characters, and concatenates them all together. An example of this is given below.
 
 `def recover_password(ASCII_list):
+
     characters = [chr(i) for i in ASCII_list]
+
     return ''.join(characters)
 `
 
