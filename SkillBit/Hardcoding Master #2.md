@@ -32,7 +32,7 @@ def reverse(password):
 ```
 Inputting `"nhpouqb^umhhbqjuzs"` as the password gives us the flag `import_antigravity`
 
-**flag**: `import_antigravity`
+**flag:** `import_antigravity`
 
 # Lesson Learned:
 - Breaking a complex transformation into smaller pieces makes reverse engineering much more manageable
